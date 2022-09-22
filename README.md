@@ -6,3 +6,5 @@ Used in the work:
 - JS;
 - Swiper: slider;
 - jQuery: JavaScript library.
+
+![gif](https://user-images.githubusercontent.com/94079934/191829561-4a2e136a-c998-4249-bb31-f6a0a6645dde.gif)
