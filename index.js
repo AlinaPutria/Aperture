@@ -83,30 +83,3 @@ function scrollToTop() {
 }
 mybutton.addEventListener("click", scrollToTop);
 // 
-// SLIDER
-const swiper_home = new Swiper('.home-swiper', {
-  speed: 1000,
-  slidesPerView: 5,
-  autoplay: {
-    delay: 7000,
-  },
-  keyboard: {
-    enabled: true,
-    onlyInViewport: false,
-  },
-  mousewheel: {
-    invert: true,
-  },
-  breakpoints: {
-    320: {
-      slidesPerView: 1,
-    },
-    425: {
-      slidesPerView: 3,
-    },
-    768: {
-      slidesPerView: 4,
-    }
-  }
-});
-// .....................
